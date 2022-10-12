@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "peaceful-nation-355019",
+  "private_key_id": "2c3841a74c6374ff5b2373753e3e72e901b23885",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCcsSFaEXLCwbmF\nkKLb/cBCvRj516b7CHnvMdEv4ft9h2pGRpE12abV2wk3slY4lgXROjadNOFJWz6b\nZwJul0MpQNE0zNDlMbGDfaG4/aVZEkooQGyA4Wb0bt+lBy7dpdx0apqzLAjnjbxg\n3FFp+nd3aTLSXX0tr5D40n8Pgms4nnKPXAFHDW3q6cTc9Hjw1mIfUuPv7BjP7faw\nc3KMEebY+NTOEwhf41d078CNCvzm42rno9+1tziEjiPx/oWZo+7EB0m7NmDM8HgY\nMUAKQJy/HJH2sHKSGQrKmEcLV7J2dy1xOBhs1SU6XOgk5z+GEpta/sM48JWc3NZj\n3HZea4WpAgMBAAECggEAB0SckUzSo8fAWxqJwVZIdRgIGOuouEds/3wyMaxD4e9W\nbb7PdL3dJBmKOIoGP47u42T1vE5D/mbz9RmetmJACGF0KsSu0li/HQQmbJogUay8\nYZhWaBZ8c+1SJJmcEgYj3wcEWLf7zEDJ6nzBrn6ijLiFldYmDKjSesYpxF6Gamx1\neXBSHYx3Fo2Iu5PzWz564SoVjpfPB7mOuF1drWanwIZ6uVcgykSxoIm+Z0oiBavo\nZRtTSAVJFnsbS+/WPWXv+1vaimPL7M5f7R5dgCI/VauxLNall6VoqUXRQo+bjWbj\nFIJp6UkBIWlgrnQwYBLiPHE6L5MzVNRat7VeGB81gQKBgQDOcDYpUwbTCDgcau7E\nBL4HSjfcSqGTXqwAM/lBDhYxNZCVAdeY6j5Hr328PThSGhOAXb+/Sk9zR+vcQZsq\nC7K4jvRhL9H3c8F1VJCbymr3Z1E37xiVtxmqzE0nQnlH8kBPdNfVw9YLI58wRCXN\na3ut2Bxvk1v+ZCuxJhHy42nZKQKBgQDCT3ucZ2RluVL3hf9FFzn6NK5VQ/ja2oc+\ndtPmE7rUsAJhxbJt5lhyOr7LGJtoNrpJ44IBdnwBFy81t1h396hwnclol6i5gu20\nTxJk5kM7YzlhNNISKMeUEHxIBIDjDAO1afhzyEHsGsL5S3no6F2deFF9K6CJMoH1\n6ximMtdYgQKBgG7gB8b0J+MqM/DXYfv3zBRgQVZY4yUioODPCV1ucm7lpQzS23fu\nv5qC39Y9T0WRac31DCpyf++bvksjFXJkrA3CAfE83Nm52zroO27hLchJPm77RMoM\neIWqivm+EyOYMgA68j2GnCyJalNjFqaYxumc+9DVZYBhTrIrj1JT4CLZAoGANr/y\nknVHgqofSINHFA6hVXC2lmvamL/uT5lnx3JTuE4HvcjYp8K5tSX8UHmUgF67SsqB\n/SuHcT85HCeXE+aCXYj4ETJ6ZhsQIzgMdMW0t+0TY+JgNqGq6ntiqWAreM4P1XQQ\nf38zo/U+bsPni8q9Zfta6qv6Re4nVEVz4pB8wQECgYEAqyNwwA+a+lNBWl58JdBq\n0eNWGUaYmPxjMApWxhKzw58iTYdXptO90eqBleMuLnz/BK/Gm2DQeB+l8oUbYGZ+\njlrXAFwjXWhV7JmgK0cqFZluFboF1FGw5QH/RFURjt2RphAp/BeTUqhTMli4LLNP\niGShbzLwL6sATNJQml4AcCA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "coin-and-price@peaceful-nation-355019.iam.gserviceaccount.com",
+  "client_id": "107360335433897364375",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/coin-and-price%40peaceful-nation-355019.iam.gserviceaccount.com"
+}
